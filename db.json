@@ -1,12 +1,4 @@
 {
-  "pages": [
-    {
-      "id": "1",
-      "title": "sdfsdfsdfsdf",
-      "path": "/about-us",
-      "description": "sdfdsfdsfsdfsdf"
-    }
-  ],
   "games": [
     {
       "id": "2",
@@ -135,6 +127,12 @@
       "name": "dziugas fedinas",
       "email": "dziugas.fedinas33@gmail.com",
       "message": "sdsdsdsd"
+    },
+    {
+      "id": "3c95",
+      "name": "dziugas fedinas",
+      "email": "dziugas.fedinas33@gmail.com",
+      "message": "sdfsdfsdfsdf"
     }
   ],
   "computers": [

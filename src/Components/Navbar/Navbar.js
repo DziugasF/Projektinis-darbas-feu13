@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <>
       <IconContext.Provider value={{ color: "#fff" }}>
-        <nav className="navbar">
+        <nav className="navbar navbar-inverse navbar-fixed-top">
           <div className="navbar-container container">
             <Link to="/" className="navbar-logo pb-3" onClick={closeMobileMenu}>
               <SiPcgamingwiki className="navbar-icon" />
