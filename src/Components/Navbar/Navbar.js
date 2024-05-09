@@ -1,6 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
 import "../../styles/Navbar.css";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { SiPcgamingwiki } from "react-icons/si";
 import { IconContext } from "react-icons";

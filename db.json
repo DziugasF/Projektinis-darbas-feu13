@@ -102,7 +102,8 @@
     {
       "name": "",
       "email": "",
-      "message": ""
+      "message": "",
+      "id": "2cbb"
     },
     {
       "id": "cbf3",
@@ -297,12 +298,12 @@
       "description": "sdfsdf"
     },
     {
-      "id": "aaf8",
       "name": "sd",
       "price": "sd",
       "image": "https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA",
       "type": "new",
-      "description": "sdddddd"
+      "description": "sdddddd",
+      "id": "aaf8"
     }
   ],
   "keyboards": [
@@ -473,6 +474,14 @@
       "image": "https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA",
       "type": "new",
       "description": "sddddddddddddddddd"
+    },
+    {
+      "id": "6e25",
+      "name": "DziugasFedinas",
+      "price": "45",
+      "image": "https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA",
+      "type": "new",
+      "description": "45454545"
     }
   ],
   "mouses": [

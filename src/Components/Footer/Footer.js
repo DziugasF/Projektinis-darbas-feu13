@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer className=" bg-dark text-white pt-5 pb-4 ">
-      <div className="d-flex mx-auto container text-center text-md-left ">
+      <div className="d-flex mx-auto container text-center text-md-left">
         <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
           <h5 className="text-uppercase mb-4 font-weight-bold text-white">
             Products
