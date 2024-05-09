@@ -4,7 +4,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Footer from "./Components/Footer/Footer";
 import HomePage from "./Pages/HomePage/HomePage";
 import ComputerList from "./Pages/ComputerList/ComputerList";
-import GamesToBuy from "./Pages/GamesToBuy/GamesToBuy";
+import GamesToBuy from "./Pages/GamesList/GamesList";
 import AboutUs from "./Pages/AboutUs/AboutUs";
 import Contacts from "./Pages/Contacts/Contacts";
 import ComputerDetails from "./Pages/ComputerDetails/ComputerDetails";
